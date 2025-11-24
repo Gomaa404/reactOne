@@ -4,7 +4,7 @@ import img1 from "../../assets/poert1.png";
 import img2 from "../../assets/port2.png";
 import img3 from "../../assets/port3.png";
 import { FaPlus } from "react-icons/fa6";
-import Starwhite from "../star/Starwhite";
+import Starwhite from "../star/StarWhite";
 export default function Portfilo() {
   const [open, setOpen] = useState(false);
   const [currentImg, setCurrentImg] = useState(null);
