@@ -1,0 +1,10 @@
+.style {
+  color: #fff;
+  background-color: #1abc9c;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

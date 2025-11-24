@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+.nav-link.active {
+  border-radius: 10px;
+  background: #1abc9c !important;
+  width: fit-content;
+  padding: 10px;
+  transition: 0 all ease;
+}
