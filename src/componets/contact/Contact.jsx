@@ -1,7 +1,7 @@
 import React from 'react'
 import Star from '../star/Star'
 import style from "./contact.module.css"
-import Starwhite from '../star/Starwhite'
+import Starwhite from '../star/StarWhite'
 export default function Contact() {
   return (
     <div className='container  my-4'>
