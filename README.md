@@ -34,8 +34,8 @@ The goal is to build reusable components, maintain clean code, and deploy functi
 
 Screenshots / GIFs of your application:
 
-![Homepage](link-to-your-screenshot.png)  
-![Project Page](link-to-your-screenshot.png)  
+![Homepage] 
+![Project Page]
 
 > Replace the links above with your own screenshots.
 
