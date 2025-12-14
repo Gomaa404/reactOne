@@ -30,17 +30,6 @@ The goal is to build reusable components, maintain clean code, and deploy functi
 
 ---
 
-## 💻 Preview
-
-Screenshots / GIFs of your application:
-
-![Homepage] 
-![Project Page]
-
-> Replace the links above with your own screenshots.
-
----
-
 ## 📋 Installation
 
 1. Clone the repository:
